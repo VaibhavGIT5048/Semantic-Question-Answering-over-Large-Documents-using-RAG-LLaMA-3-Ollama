@@ -1,5 +1,4 @@
 # Semantic Question Answering over Large Documents using RAG + LLaMA 3 + Ollama
-
 <div align="center">
 
 Local PDF question answering with hybrid retrieval, a Streamlit chat UI, quality gating, and a built-in evaluation pipeline.
